@@ -1,7 +1,7 @@
 {
-	"name": "Weather Ups",
-	"short_name": "Weather Ups",
-	"description": "An app that can show weather forecast for your city.",
+	"name": "Cioccolata",
+	"short_name": "Cioccolata",
+	"description": "Towards the periphery",
 	"icons": [
 		{
 			"src": "/android-chrome-192x192.png",
